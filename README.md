@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kween-olpha
+- 👋 Hi, I’m @oluchi
 - 👀 I’m interested in SE
 - 🌱 I’m currently a beginner
 - 💞️ I’m looking to collaborate
